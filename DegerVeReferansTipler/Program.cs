@@ -26,6 +26,7 @@ namespace DegerVeReferansTipler
 
             // stack = sayi1 = 10, sayi2 = 30
 
+            xxxx
         }
     }
 }
